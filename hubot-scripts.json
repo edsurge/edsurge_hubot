@@ -1,1 +1,16 @@
-["redis-brain.coffee", "shipit.coffee","moarcatsme.coffee"]
+[
+  "redis-brain.coffee",
+  "shipit.coffee",
+  "moarcatsme.coffee",
+  "github-activity.coffee",
+  "github-commit-link.coffee",
+  "github-commiters.coffee",
+  "github-commits.coffee",
+  "github-credentials.coffee",
+  "github-issue-link.coffee",
+  "github-issues.coffee",
+  "github-merge.coffee",
+  "github-pulls.coffee",
+  "github-search.coffee",
+  "github-status.coffee"
+]
