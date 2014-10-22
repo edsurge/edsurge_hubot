@@ -12,5 +12,6 @@
   "github-merge.coffee",
   "github-pulls.coffee",
   "github-search.coffee",
-  "github-status.coffee"
+  "github-status.coffee",
+  "heroku-status.coffee"
 ]
