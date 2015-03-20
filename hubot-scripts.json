@@ -6,9 +6,7 @@
   "github-commit-link.coffee",
   "github-commiters.coffee",
   "github-commits.coffee",
-  "github-credentials.coffee",
-  "github-issue-link.coffee",
-  "github-issues.coffee",
+  "github-credentials.coffee"
   "github-merge.coffee",
   "github-pulls.coffee",
   "github-search.coffee",
